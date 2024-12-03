@@ -6,29 +6,28 @@ This year I try 25 different languages, each day one
 
 Languages I have in mind:
 
-  pascal
-  fortran
-  lisp
-  c
-  java
-  kotlin
-  scala
-  python
-  rust
-  c#
-  typescript
-  go
-  SQL
-  lua
-  swift
-  php
-  julia
-  simula
-  qbasic
-  crystal
-  dart
-  elixer
-  red
-  reason
-  f#
-
+- pascal
+- fortran
+- lisp
+- c
+- java
+- kotlin
+- scala
+- python
+- rust
+- c#
+- typescript
+- go
+- SQL
+- lua
+- swift
+- php
+- julia
+- simula
+- qbasic
+- crystal
+- dart
+- elixer
+- red
+- reason
+- f#
