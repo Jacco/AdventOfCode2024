@@ -3,6 +3,7 @@ This year I try 25 different languages, each day one
 - 1: Scratch
 - 2: Ruby
 - 3: Javascript (in nodejs using fs)
+- 4: Julia
 
 Languages I have in mind:
 
@@ -22,7 +23,6 @@ Languages I have in mind:
 - lua
 - swift
 - php
-- julia
 - simula
 - qbasic
 - crystal
