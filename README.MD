@@ -4,6 +4,7 @@ This year I try 25 different languages, each day one
 - 2: Ruby
 - 3: Javascript (in nodejs using fs)
 - 4: Julia
+- 5: Python (tried QBasic but I gave up, wow am I glad we're past that era)
 
 Languages I have in mind:
 
